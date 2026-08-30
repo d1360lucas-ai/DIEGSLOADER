@@ -26,7 +26,7 @@ local Stats = game:GetService("Stats")
 local scriptVersion    = "Eustazz Menu"
 local executorName     = (identifyexecutor and identifyexecutor()) or "Unknown Executor"
 local webhookUsername  = "qwdgo9113"
-local webhookAvatarURL = "https://media.discordapp.net/attachments/1479924030298652794/1481159592904888430/698d99ca1e2b367d426e445fa51d3824.png?ex=69b24cdd&is=69b0fb5d&hm=6552903a1786164d277d908e213923726405cdcaaa34ff183b4cb04d4d9a4b55&=&format=webp&quality=lossless&width=589&height=589"
+local webhookAvatarURL = "https://cdn.discordapp.com/attachments/1395690185731215472/1543444574608040056/76b1d37632b200c95b95e509df739e27.jpg?ex=6a94e446&is=6a9392c6&hm=923aed4f771eb825c849219a4239d8b77ab2eb292493be3479ecab940fcf6b50&"
 local webhookURL       = "https://discord.com/api/webhooks/1543202132155441172/MsKwv8Jc_RfUDzbAJ3x3h0Wc_klfSAFEua0mDHwhjaTvneV0RszgzL122GgSkYACOyLG"
 
 local function getPlayerInfo()
